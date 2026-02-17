@@ -1,2 +1,3 @@
-# 221-328-lab-work
-Learning the basics of web development
+# Ml project
+
+Классический мл проект для определения болезни по описанию человека и ключевым факторам 
